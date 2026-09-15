@@ -1,4 +1,5 @@
 # Studi_Kasus_4_Dheystrin_Gloria_Nafisya
+NIM: Ganjil
 
 Penjelasan:
 <br>Membuat dictionary variabel buku dan menggunakan kurung kurawal{}
